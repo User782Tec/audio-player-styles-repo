@@ -2,5 +2,6 @@
     "name": "粉色主题",
     "authors": "782",
     "styles": "styles.txt",
-    "description": "以粉色为主题的一款颜色主题。"
+    "description": "以粉色为主题的一款颜色主题。",
+    "image": "image.png"
 }
