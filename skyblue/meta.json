@@ -1,7 +1,7 @@
 {
     "name": "天蓝主题",
     "authors": "782",
-    "styles": "styles.txt",
+    "styles": "styles.json",
     "description": "以天蓝色为主题的一款颜色主题。",
     "image": "image.png"
 }
